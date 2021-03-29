@@ -17,6 +17,7 @@ and using different types of time series models.
 
 
 DATASET
+Select a commodity and a market from the website below
 https://www.krishimaratavahini.kar.nic.in/reports/DateWiseReport.aspx
 
 TYPES OF MODELS USED FOR FORECASTING
